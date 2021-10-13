@@ -1,3 +1,6 @@
+ #### Name: Iqra
+ - GitHub: [Iqra](https://github.com/iqrashafqat)
+
  #### Name: Daniyal
  - GitHub: [Daniyal](https://github.com/Daniyal-star/)
 
