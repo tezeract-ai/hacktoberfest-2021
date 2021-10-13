@@ -1,3 +1,6 @@
+ #### Name: Daniyal
+ - GitHub: [Daniyal](https://github.com/Daniyal-star/)
+
 #### Name: Mannan
  - GitHub: [Mannan](https://github.com/Abdulmannan1122)
 
