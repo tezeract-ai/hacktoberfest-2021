@@ -1,2 +1,2 @@
-#### Name: Nabeel
- - GitHub: [Nabeel](https://github.com/n4beel)
+ #### Name: Iqra
+ - GitHub: [Iqra](https://github.com/iqrashafqat)
